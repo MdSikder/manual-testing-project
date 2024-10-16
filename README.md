@@ -1,7 +1,7 @@
 
 # **Manual Testing Project: Registration Form Validation**  
 
-This repository contains detailed **manual testing artifacts** for a registration form, demonstrating end-to-end functional testing, validation checks, and defect tracking. It includes well-documented **test cases**, **bug reports**, and **summary reports**, covering both positive and negative scenarios with real-world statuses like **Pass**, **Failed**, and **Warning**.
+This repository contains detailed **manual testing artifacts** for a registration form, demonstrating end-to-end functional testing, validation checks, and defect tracking. It includes well-documented **test plans**, **test cases**, **bug reports**, and **summary reports**, covering both positive and negative scenarios with real-world statuses like **Pass**, **Failed**, and **Warning**.
 
 ---
 
@@ -43,13 +43,15 @@ This project focuses on testing a **user registration form** with various input 
 │   ├── summary_report.md      # Test Execution Summary Report
 │   └── test_and_defect_summary_report.png  # Graphical Summary Report
 └── documentation
+    ├── bug_report.md          # Detailed Bug Reports
     ├── test_cases.md          # Comprehensive Test Cases Document
-    └── bug_report.md          # Detailed Bug Reports
+    └── test_plan.md            # Comprehensive Test Plans Document
 ```
 
 ---
 
 ## **Documentation**  
+- [Test Plan](./documentation/test_plan.md)
 - [Test Cases](./documentation/test_cases.md)  
 - [Bug Report](./documentation/bug_report.md)  
 
@@ -57,7 +59,7 @@ This project focuses on testing a **user registration form** with various input 
 
 ## **Reports**  
 - [Summary Report](./reports/summary_report.md)  
-- [Pictorial Summary](./reports/test_and_defect_summary_report.png)  
+- [Pictorial Summary](./reports/test_and_defect_summary_report.webp)  
 
 ---
 
