@@ -59,7 +59,7 @@ This project focuses on testing a **user registration form** with various input 
 
 ## **Reports**  
 - [Summary Report](./reports/summary_report.md)  
-- [Pictorial Summary](./reports/test_and_defect_summary_report.webp)  
+- [Pictorial Summary](./reports/test_and_defect_summary_report.png)  
 
 ---
 
